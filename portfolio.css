@@ -360,9 +360,11 @@ svg{
     fill: white;
 }
 .social-icon:hover svg{
+    fill: black;
+}
+.social-icon:hover{
     background: linear-gradient(#f06,#3cf);
     transform: scale(1.1);
-    fill: black;
 }
 .projects-section {
     padding: 50px 20px;
