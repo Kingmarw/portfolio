@@ -352,7 +352,7 @@ nav a
     color: #fff;
     font-size: 10px;
     text-decoration: none;
-    transition: background-color 0.3s, transform 0.3s;
+    transition: fill background-color 0.3s, transform 0.3s;
     fill: white; 
 }
 svg{
