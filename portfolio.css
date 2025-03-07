@@ -352,7 +352,7 @@ nav a
     color: #fff;
     font-size: 10px;
     text-decoration: none;
-    transition: fill background-color 0.3s, transform 0.3s;
+    transition: color background-color 0.3s, transform 0.3s;
 }
 svg{
     width: 40px;
@@ -360,7 +360,7 @@ svg{
 .social-icon:hover {
     background: linear-gradient(#f06,#3cf);
     transform: scale(1.1);
-    fill: black;
+    color: black;
 }
 .projects-section {
     padding: 50px 20px;
