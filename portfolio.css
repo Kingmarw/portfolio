@@ -356,8 +356,9 @@ nav a
 }
 svg{
     width: 40px;
+    transition: fill 0.3s, transform 0.3s;
 }
-.social-icon svg path:hover {
+.social-icon:hover svg{
     background: linear-gradient(#f06,#3cf);
     transform: scale(1.1);
     fill: black;
